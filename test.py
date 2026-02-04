@@ -1,2 +1,2 @@
 def testing():
-    print("This is gre")
+    print("This is great")
